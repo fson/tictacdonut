@@ -1,0 +1,1 @@
+The project extends toroidtoe, a web server implementing a game of five-in-a-row, with new features.
